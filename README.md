@@ -7,7 +7,7 @@ Warning - This script will use a significant amount of disk space.
 How do I run this?  
 git clone https://github.com/infobelt/generate-files.git  
 cd generate-files  
-./generate-files  
+./generate-files.sh   
 
 Helpful Information  
 Remove directories  
