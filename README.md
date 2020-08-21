@@ -1,8 +1,8 @@
 # Generate-Files
 
-Generate files of different file types and size.  
+Script that will generate thousands of files.  
 
-Warning - This script will use a significant amount of disk space.
+Warning - This script will use a significant amount of disk space. You can lower the number of file copies by editing the script and changing the total number of files to be copied.
 
 How do I run this?  
 git clone https://github.com/infobelt/generate-files.git  
