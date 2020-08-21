@@ -1,11 +1,13 @@
 # Generate-Files
 
-Generate files of different file types and size. 
+Generate files of different file types and size.  
+
+Warning - This script will use a significant amount of disk space.
 
 How do I run this?  
-git clone https://github.com/infobelt/generate-files.git
-cd generate-files
-./generate-files
+git clone https://github.com/infobelt/generate-files.git  
+cd generate-files  
+./generate-files  
 
 Helpful Information  
 Remove directories  
