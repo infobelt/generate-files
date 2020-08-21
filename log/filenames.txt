@@ -1,0 +1,2 @@
+filenames.txt
+WS_FTP.LOG
